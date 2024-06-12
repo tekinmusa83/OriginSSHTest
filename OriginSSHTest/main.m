@@ -10,7 +10,6 @@
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
         printf("Hello world!\n");
-        printf("Hello nice world!\n");
     }
     return NSApplicationMain(argc, argv);
 }
