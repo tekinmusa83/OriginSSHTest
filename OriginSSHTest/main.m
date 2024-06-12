@@ -9,7 +9,7 @@
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
-        // Setup code that might create autoreleased objects goes here.
+        printf("Hello world!\n");
     }
     return NSApplicationMain(argc, argv);
 }
