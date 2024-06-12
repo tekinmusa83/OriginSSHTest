@@ -9,7 +9,7 @@
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
-        printf("Bravo!!!\n");
+        printf("Bravo!!s!\n");
     }
     return NSApplicationMain(argc, argv);
 }
