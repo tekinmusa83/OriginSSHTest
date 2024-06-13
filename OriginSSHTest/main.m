@@ -9,7 +9,7 @@
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
-        int a = 10;
+        int a = 20;
     }
     return NSApplicationMain(argc, argv);
 }
